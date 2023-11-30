@@ -92,7 +92,7 @@ nav{
     font-weight: 700;
 }
 
-,.main-nav:hover>a{
+.main-nav:hover>a{
     background-color: hotpink;
     color: white;
 }
